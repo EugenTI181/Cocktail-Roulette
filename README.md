@@ -3,3 +3,5 @@ Discover a world of cocktails at Cocktail Roulette! Our site offers random selec
 # API
 The data from the API was used: www.thecocktaildb.com/api/json/v1/1/random.php
 # Running the program
+Clone this repo: 
+https://github.com/EugenTI181/Cocktail-Roulette.git
